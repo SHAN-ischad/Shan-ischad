@@ -31,5 +31,5 @@
 
 ## 📫 Contato
 - GitHub: [github.com/SHAN-ischad](https://github.com/SHAN-ischad)  
-- Email: *(adicione aqui se quiser)*  
-- LinkedIn: *(adicione aqui se tiver)*  
+- Email: iagovelox@gmail.com  
+- LinkedIn: https://www.linkedin.com/feed/
