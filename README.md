@@ -26,7 +26,7 @@
 ## 💡 Projetos em Destaque
 - [🚗 TechCarAPP](https://github.com/SHAN-ischad/TechCarAPP) — App de gestão de oficina com **TypeScript e React Native**.  
 - [📚 Estudos-Bolados](https://github.com/SHAN-ischad/Estudos-Bolados) — Projetos de aprendizado e prática de programação.  
-
+- [📔ServicesHub/TheHub](https://github.com/SHAN-ischad/ServicesHub) — Projeto de oráculo com Agente IA
 ---
 
 ## 📫 Contato
