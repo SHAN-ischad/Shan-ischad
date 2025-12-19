@@ -52,7 +52,7 @@ Sou desenvolvedor de software com foco em **soluções web e mobile modernas**, 
 ## 🖼️ Banner / Imagem Destacada
 
 <div align="center">
-  <img src="https://br.pinterest.com/pin/1067353180421104673/" alt="Banner Pixel Art" />
+  <img src="./assets/lain" alt="Banner Pixel Art" />
 </div>
 
 > 📐 Dimensão recomendada: **1200x400px**
