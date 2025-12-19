@@ -52,7 +52,7 @@ Sou desenvolvedor de software com foco em **soluções web e mobile modernas**, 
 ## 🖼️ Banner / Imagem Destacada
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain2.jpg" alt="Banner Pixel Art" width="100%"
+  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain.jpg" alt="Banner Pixel Art" width="100%"
  />
 </div>
 
