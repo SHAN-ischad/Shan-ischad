@@ -56,8 +56,6 @@ Sou desenvolvedor de software com foco em **soluções web e mobile modernas**, 
  />
 </div>
 
-> 📐 Dimensão recomendada: **1200x400px**
-
 ---
 
 ## 💼 Projetos em Destaque
