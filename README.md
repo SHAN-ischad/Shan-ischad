@@ -2,7 +2,7 @@
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain.jpg" alt="Banner Pixel Art" width="100%"
+  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain4.jpg" alt="Banner Pixel Art" width="100%"
  />
 </div>
 
