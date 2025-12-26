@@ -1,5 +1,11 @@
 # 👋 Olá, eu sou Iago Vieira Carvalho
 
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain.jpg" alt="Banner Pixel Art" width="100%"
+ />
+</div>
+
 ### Desenvolvedor Full Stack | Web & Mobile 🚀https://github.com/SHAN-ischad/Shan-ischad/blob/main/README.md
 
 Sou desenvolvedor de software com foco em **soluções web e mobile modernas**, atuando do backend à interface do usuário. Trabalho com **JavaScript/TypeScript e Java**, sempre priorizando **arquiteturas escaláveis, código limpo e alta performance**.
@@ -45,15 +51,6 @@ Sou desenvolvedor de software com foco em **soluções web e mobile modernas**, 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shan-isChad&show_icons=true&theme=tokyonight" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-isChad&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 🖼️ Banner / Imagem Destacada
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain.jpg" alt="Banner Pixel Art" width="100%"
- />
 </div>
 
 ---
