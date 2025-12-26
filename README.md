@@ -1,91 +1,133 @@
-# 👋 Olá, eu sou Iago Vieira Carvalho
-
----
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain4.jpg" alt="Banner Pixel Art" width="100%" border-radius="5px"
- />
+  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain4.jpg" width="100%" style="border-radius: 6px;" />
 </div>
 
-### Desenvolvedor Full Stack | Web & Mobile 🚀https://github.com/SHAN-ischad/Shan-ischad/blob/main/README.md
-
-Sou desenvolvedor de software com foco em **soluções web e mobile modernas**, atuando do backend à interface do usuário. Trabalho com **JavaScript/TypeScript e Java**, sempre priorizando **arquiteturas escaláveis, código limpo e alta performance**.
-
 ---
 
-## 🎯 Áreas de Atuação
-
-- **Frontend Development**
-  - React, React Native
-  - TailwindCSS
-- **Backend Development**
-  - Java, Node.js
-  - Prisma ORM
-  - REST APIs
-- **Mobile Development**
-  - React Native (cross-platform)
-- **Ferramentas & Bibliotecas**
-  - TypeScript
-  - Axios
-
----
-
-## 🛠️ Stack Tecnológico
+## 🧑‍💻 Sobre mim — Júnior / Estágio
 
 <div align="center">
 
-### Linguagens
+![GitHub followers](https://img.shields.io/github/followers/Shan-isChad?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Shan-isChad?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Shan-isChad&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning%20and%20Building-blueviolet?style=for-the-badge)
+
+</div>
+
+Sou desenvolvedor Full Stack em início de carreira, com foco em **desenvolvimento web e mobile**.  
+Possuo experiência prática com **JavaScript, TypeScript, Java, React e React Native**, desenvolvendo projetos completos do backend ao frontend.
+
+Estou em constante aprendizado e busco oportunidades como **Estagiário ou Desenvolvedor Júnior**, onde eu possa evoluir tecnicamente, contribuir com o time e aprender com desafios reais.
+
+Valorizo **código limpo, boas práticas, organização e trabalho em equipe**.
+
+---
+
+## 👨‍💻 About Me — Junior / Internship
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/Shan-isChad?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Shan-isChad?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Shan-isChad&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning%20and%20Building-blueviolet?style=for-the-badge)
+
+</div>
+
+I'm a Junior Full Stack Developer focused on **web and mobile development**.  
+I have hands-on experience with **JavaScript, TypeScript, Java, React and React Native**, building complete applications from backend to frontend.
+
+I'm continuously learning and currently looking for opportunities as a **Junior Developer or Intern**, where I can grow professionally, contribute to the team, and learn through real-world challenges.
+
+I value **clean code, best practices, organization, and teamwork**.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
 <img src="https://skillicons.dev/icons?i=js,ts,java" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,prisma" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,prisma,spring" />
 
-### Ferramentas
+### Styling & UI
+<img src="https://skillicons.dev/icons?i=tailwind,figma" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgresql" />
+
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shan-isChad&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-isChad&layout=compact&theme=tokyonight" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shan-isChad&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-isChad&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
-## 💼 Projetos em Destaque
+## ⭐ Projetos em Destaque
 
 ### 🚗 TechCarAPP
-Sistema completo de gestão para oficinas mecânicas.  
-📱 Aplicação mobile desenvolvida com **TypeScript e React Native**, focada em controle de serviços, clientes e agendamentos.
+Aplicação **mobile** para gestão de oficinas mecânicas, permitindo controle de clientes, serviços e agendamentos.
 
----
-
-### 📚 Estudos-Bolados
-Repositório dedicado a **estudos, testes e experimentações** com novas tecnologias, padrões e conceitos avançados de desenvolvimento.
+**Tecnologias:**
+- TypeScript
+- React Native
+- API REST
 
 ---
 
 ### 🤖 ServicesHub / TheHub
-Plataforma inteligente com **integração de Agente de IA**, voltada para automação de serviços e análises preditivas.
+Plataforma focada em **automação de serviços**, com integração de **Inteligência Artificial** para apoio à tomada de decisão.
+
+**Tecnologias:**
+- JavaScript / TypeScript
+- Node.js
+- APIs REST
 
 ---
 
-## 📫 Vamos Conectar?
+### 📚 Estudos-Bolados
+Repositório dedicado a **estudos, testes e experimentações**, utilizado para aprendizado contínuo de novas tecnologias e conceitos.
+
+---
+
+## 🌐 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+
+<a href="https://www.linkedin.com/in/iago-vieira-carvalho-477547322/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:iagovelox@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/Shan-isChad">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-✨ <i>"Transformando ideias em código, código em soluções."</i> ✨
+
+✨ *Transforming ideas into code, and code into real solutions.* ✨
+
 </div>
