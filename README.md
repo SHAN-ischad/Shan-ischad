@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain4.jpg" width="100%" style="border-radius: 6px;" />
+  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain4.jpg" width="90%" style="border-radius: 6px;" />
 </div>
 
 ---
@@ -8,19 +8,19 @@
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Shan-isChad?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/Shan-isChad?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=Shan-isChad&style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Learning%20and%20Building-blueviolet?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Shan-isChad?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Shan-isChad?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=Shan-isChad&style=for-the-badge)
+![Learning](https://img.shields.io/badge/Status-Learning%20and%20Building-blueviolet?style=for-the-badge)
 
 </div>
 
-Sou desenvolvedor Full Stack em início de carreira, com foco em **desenvolvimento web e mobile**.  
-Possuo experiência prática com **JavaScript, TypeScript, Java, React e React Native**, desenvolvendo projetos completos do backend ao frontend.
+Sou desenvolvedor **Full Stack em início de carreira**, com foco em **desenvolvimento web e mobile**.  
+Tenho experiência prática com **JavaScript, TypeScript, Java, React e React Native**, desenvolvendo aplicações completas do backend ao frontend.
 
-Estou em constante aprendizado e busco oportunidades como **Estagiário ou Desenvolvedor Júnior**, onde eu possa evoluir tecnicamente, contribuir com o time e aprender com desafios reais.
+Busco oportunidades como **Estagiário ou Desenvolvedor Júnior**, onde eu possa aprender, evoluir tecnicamente e contribuir com o time.
 
-Valorizo **código limpo, boas práticas, organização e trabalho em equipe**.
+Valorizo **código limpo, organização, boas práticas e trabalho em equipe**.
 
 ---
 
@@ -28,37 +28,43 @@ Valorizo **código limpo, boas práticas, organização e trabalho em equipe**.
 
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/Shan-isChad?style=for-the-badge&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/Shan-isChad?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=Shan-isChad&style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Learning%20and%20Building-blueviolet?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Shan-isChad?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Shan-isChad?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=Shan-isChad&style=for-the-badge)
+![Learning](https://img.shields.io/badge/Status-Learning%20and%20Building-blueviolet?style=for-the-badge)
 
 </div>
 
-I'm a Junior Full Stack Developer focused on **web and mobile development**.  
+I'm a **Junior Full Stack Developer** focused on **web and mobile development**.  
 I have hands-on experience with **JavaScript, TypeScript, Java, React and React Native**, building complete applications from backend to frontend.
 
-I'm continuously learning and currently looking for opportunities as a **Junior Developer or Intern**, where I can grow professionally, contribute to the team, and learn through real-world challenges.
-
-I value **clean code, best practices, organization, and teamwork**.
+I'm currently looking for opportunities as a **Junior Developer or Intern**, where I can grow professionally and learn through real-world challenges.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=js,ts,java" />
 
+<br/>
+
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,prisma,spring" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,spring" />
+
+<br/>
 
 ### Styling & UI
 <img src="https://skillicons.dev/icons?i=tailwind,figma" />
 
+<br/>
+
 ### Databases
-<img src="https://skillicons.dev/icons?i=postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+
+<br/>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -67,46 +73,50 @@ I value **clean code, best practices, organization, and teamwork**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Shan-isChad&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Shan-isChad&show_icons=true&theme=tokyonight&hide_border=true" width="90%" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-isChad&layout=compact&theme=tokyonight&hide_border=true" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-isChad&layout=compact&theme=tokyonight&hide_border=true" width="90%" />
 
 </div>
 
 ---
 
-## ⭐ Projetos em Destaque
+## ⭐ Meus Projetos
 
 ### 🚗 TechCarAPP
-Aplicação **mobile** para gestão de oficinas mecânicas, permitindo controle de clientes, serviços e agendamentos.
+Sistema mobile para **gestão de oficinas mecânicas**.
 
-**Tecnologias:**
-- TypeScript
-- React Native
-- API REST
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,firebase" />
+</div>
 
 ---
 
 ### 🤖 ServicesHub / TheHub
-Plataforma focada em **automação de serviços**, com integração de **Inteligência Artificial** para apoio à tomada de decisão.
+Plataforma de **automação de serviços** com integração de IA.
 
-**Tecnologias:**
-- JavaScript / TypeScript
-- Node.js
-- APIs REST
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,mongodb" />
+</div>
 
 ---
 
 ### 📚 Estudos-Bolados
-Repositório dedicado a **estudos, testes e experimentações**, utilizado para aprendizado contínuo de novas tecnologias e conceitos.
+Repositório focado em **aprendizado contínuo** e testes.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react" />
+</div>
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🌐 Contato
 
 <div align="center">
 
@@ -116,10 +126,6 @@ Repositório dedicado a **estudos, testes e experimentações**, utilizado para 
 
 <a href="mailto:iagovelox@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://github.com/Shan-isChad">
-  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </div>
