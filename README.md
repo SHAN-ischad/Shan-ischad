@@ -15,12 +15,15 @@
 
 </div>
 
-Sou desenvolvedor **Full Stack em início de carreira**, com foco em **desenvolvimento web e mobile**.  
+<div display="flex">
+  Sou desenvolvedor **Full Stack em início de carreira**, com foco em **desenvolvimento web e mobile**.  
 Tenho experiência prática com **JavaScript, TypeScript, Java, React e React Native**, desenvolvendo aplicações completas do backend ao frontend.
 
 Busco oportunidades como **Estagiário ou Desenvolvedor Júnior**, onde eu possa aprender, evoluir tecnicamente e contribuir com o time.
 
 Valorizo **código limpo, organização, boas práticas e trabalho em equipe**.
+</div>
+
 
 ---
 
