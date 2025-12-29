@@ -55,7 +55,7 @@ I'm currently looking for opportunities as a **Junior Developer or Intern**, whe
 <br/>
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,spring" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,spring" />
 
 <br/>
 
