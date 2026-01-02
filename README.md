@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain4.jpg" width="90%" style="border-radius: 6px;" />
+  <img 
+    src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/lain4.jpg" 
+    width="90%" 
+    style="border-radius: 6px;" 
+  />
 </div>
 
 ---
@@ -15,7 +19,7 @@
 
 </div>
 
-<table>
+<table width="100%">
   <tr>
     <td width="70%" valign="top">
       Sou desenvolvedor <strong>Full Stack em início de carreira</strong>, com foco em 
@@ -29,6 +33,7 @@
 
       Valorizo <strong>código limpo, organização, boas práticas e trabalho em equipe</strong>.
     </td>
+
     <td width="30%" align="center">
       <img 
         src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.png" 
@@ -38,16 +43,6 @@
     </td>
   </tr>
 </table>
-
-
-  <img 
-    src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.png" 
-    height="250"
-    style="border-radius: 6px;"
-  />
-</div>
-
-
 
 ---
 
@@ -62,20 +57,7 @@
 
 </div>
 
-
-
-<div 
-  style="
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    gap: 16px;
-    flex-wrap: wrap;
-  "
->
-  <div style="flex: 1; min-width: 260px;">
-<table>
+<table width="100%">
   <tr>
     <td width="70%" valign="top">
       I'm a <strong>Junior Full Stack Developer</strong> focused on 
@@ -87,6 +69,7 @@
       I'm currently looking for opportunities as a <strong>Junior Developer or Intern</strong>,
       where I can grow professionally and learn through real-world challenges.
     </td>
+
     <td width="30%" align="center">
       <img 
         src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.jpg" 
@@ -97,36 +80,33 @@
   </tr>
 </table>
 
-
-
-
 ---
 
 ## 🧠 Tech Stack
 
 <div align="center">
 
-### Languages
+### Languages  
 <img src="https://skillicons.dev/icons?i=js,ts,java" />
 
 <br/>
 
-### Frameworks & Libraries
+### Frameworks & Libraries  
 <img src="https://skillicons.dev/icons?i=react,nodejs,spring" />
 
 <br/>
 
-### Styling & UI
+### Styling & UI  
 <img src="https://skillicons.dev/icons?i=tailwind,figma" />
 
 <br/>
 
-### Databases
+### Databases  
 <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 
 <br/>
 
-### Tools
+### Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
@@ -151,12 +131,11 @@
 
 </div>
 
-
 ---
 
 ## ⭐ Meus Projetos
 
-### 🚗 TechCarAPP
+### 🚗 TechCarAPP  
 Sistema mobile para **gestão de oficinas mecânicas**.
 
 <div align="center">
@@ -165,7 +144,7 @@ Sistema mobile para **gestão de oficinas mecânicas**.
 
 ---
 
-### 🤖 ServicesHub / TheHub
+### 🤖 ServicesHub / TheHub  
 Plataforma de **automação de serviços** com integração de IA.
 
 <div align="center">
@@ -174,7 +153,7 @@ Plataforma de **automação de serviços** com integração de IA.
 
 ---
 
-### 📚 Estudos-Bolados
+### 📚 Estudos-Bolados  
 Repositório focado em **aprendizado contínuo** e testes.
 
 <div align="center">
@@ -201,6 +180,6 @@ Repositório focado em **aprendizado contínuo** e testes.
 
 <div align="center">
 
-✨ *always improving.* ✨
+✨ <em>always improving.</em> ✨
 
 </div>
