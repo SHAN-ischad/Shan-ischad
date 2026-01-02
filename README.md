@@ -1,72 +1,104 @@
-<br>
-<br>
-<br>
-
-
-<div align="center"> <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/carInPurple.gif" width="90%" height="250px" style="border-radius: 6px;" /> </div>
-
-
-<br>
-<br>
-<br>
+<br><br><br>
 
 <div align="center">
   <img 
-    align="center" 
+    src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/carInPurple.gif" 
+    width="90%" 
+    height="250px" 
+    style="border-radius: 6px;" 
+  />
+</div>
+
+<br><br><br>
+
+<div align="center">
+  <img 
     height="150" 
     src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.png" 
   />
 </div>
 
 <div align="center">
-  
   <b>`プ ロ グ ラ マ`</b>
   <samp>
-      <br>
-      Olá! Eu sou <b>{{SEU_NOME}}</b>
+    <br>
+    Olá! Eu sou <b>{{SEU_NOME}}</b>
   </samp>
 </div>
 
 <div align="center" width="100%">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Bem+vindo+ao+meu+perfil;Programador+Full+Stack;Focado+em+serviços+web"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8b5cf6&width=900&size=22&center=true&lines=Programador+Full+Stack;Focado+em+serviços+web"
     alt="Typing SVG"
   />
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/fullstack-black" />
+  <img src="https://img.shields.io/badge/fullstack-6b21a8?style=flat-square" />
 </div>
 
-<br>
-<br>
+<br><br>
+
+---
+
+### 🧠 Tecnologias
+
+- **JavaScript**
+- **TypeScript**
+- **Java**
+- **React**
+- **React Native**
+- **Node.js**
+- **Spring**
+- **MongoDB**
+- **Firebase**
+- **Git & GitHub**
+- **Tailwind CSS**
+- **Figma**
+
+---
+
+### 📊 GitHub
 
 <div align="center">
   <img 
-    height="165" 
-    align="center" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=Shan-isChad&hide_border=true&show_icons=true&rank_icon=github&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117"
-  />
-  <img 
-    height="180" 
-    align="center" 
-    alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-isChad&layout=compact&hide_border=true&title_color=f4cd7c&icon_color=f4cd7c&text_color=fff&bg_color=0d1117"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shan-isChad&theme=purple_dark"
   />
 </div>
 
-<br>
+---
+
+### ⭐ Projetos
+
+**🚗 TechCarAPP**  
+Sistema mobile para gestão de oficinas mecânicas  
+`TypeScript · React · Firebase`
+
+**🤖 ServicesHub / TheHub**  
+Plataforma de automação de serviços com IA  
+`JavaScript · Node.js · MongoDB`
+
+**📚 Estudos-Bolados**  
+Repositório de estudos e experimentos  
+`JavaScript · TypeScript · React`
+
+---
+
+### 🌐 Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iago-vieira-carvalho-477547322/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:iagovelox@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</div>
+
 <br>
 
 <div align="center">
-  <img 
-    align="center" 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shan-isChad&theme=maroongold"
-  />
+  ✨ <em>always improving.</em> ✨
 </div>
-
-<br>
-<br>
