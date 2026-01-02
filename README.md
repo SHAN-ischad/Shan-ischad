@@ -22,7 +22,7 @@
   <b>`プ ロ グ ラ マ`</b>
   <samp>
     <br>
-    Olá! Eu sou <b>{{SEU_NOME}}</b>
+    Olá! Eu sou <b>Iago Vieira Carvalho</b>
   </samp>
 </div>
 
@@ -51,7 +51,6 @@
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=nodejs" />
 <img src="https://skillicons.dev/icons?i=spring" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -60,6 +59,8 @@
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
 
 </div>
 
@@ -96,6 +97,8 @@ Repositório de estudos e experimentos
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
 
 ---
 
