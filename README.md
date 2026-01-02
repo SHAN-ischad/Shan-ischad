@@ -76,10 +76,9 @@
 ### 📊 GitHub
 
 <div align="center">
-  <img 
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shan-isChad&theme=purple_dark"
-  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shan-isChad&theme=dracula" />
 </div>
+
 
 ---
 
