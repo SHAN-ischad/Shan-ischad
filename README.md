@@ -40,10 +40,8 @@
 </div>
 
 <br><br>
-
 ---
 
-### 🧠 Tecnologias
 
 ### 🧠 Tecnologias
 
@@ -83,13 +81,11 @@
 **🚗 TechCarAPP**  
 Sistema mobile para gestão de oficinas mecânicas  
 <img src="https://skillicons.dev/icons?i=ts" />
-<img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
 
 **🤖 ServicesHub / TheHub**  
 Plataforma de automação de serviços com IA  
-<img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
@@ -97,7 +93,6 @@ Plataforma de automação de serviços com IA
 **📚 Estudos-Bolados**  
 Repositório de estudos e experimentos  
 <img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=ts" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
