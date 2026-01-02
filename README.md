@@ -8,7 +8,7 @@
 
 <div align="center">
 <img 
-  src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/carInPurple.gif" width="90%" height="200px"
+  src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/purplesky.gif" width="90%" height="200px"
 />
 
 </div>
