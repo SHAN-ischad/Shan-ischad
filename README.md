@@ -82,15 +82,25 @@
 
 **🚗 TechCarAPP**  
 Sistema mobile para gestão de oficinas mecânicas  
-`TypeScript · React · Firebase`
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
 
 **🤖 ServicesHub / TheHub**  
 Plataforma de automação de serviços com IA  
-`JavaScript · Node.js · MongoDB`
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
 
 **📚 Estudos-Bolados**  
 Repositório de estudos e experimentos  
-`JavaScript · TypeScript · React`
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
 
 ---
 
