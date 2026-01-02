@@ -2,6 +2,14 @@
 <br>
 <br>
 
+
+<div align="center"> <img src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/carInPurple.gif" width="90%" style="border-radius: 6px;" /> </div>
+
+
+<br>
+<br>
+<br>
+
 <div align="center">
   <img 
     align="center" 
