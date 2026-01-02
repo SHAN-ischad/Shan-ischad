@@ -12,9 +12,9 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Shan-isChad?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Shan-isChad?style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=Shan-isChad&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SHAN-ischad?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/SHAN-ischad?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=SHAN-ischad&style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Status-Learning%20and%20Building-blueviolet?style=for-the-badge)
 
 </div>
@@ -50,9 +50,9 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Shan-isChad?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Shan-isChad?style=for-the-badge)
-![Views](https://komarev.com/ghpvc/?username=Shan-isChad&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/SHAN-ischad?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/SHAN-ischad?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=SHAN-ischad&style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Status-Learning%20and%20Building-blueviolet?style=for-the-badge)
 
 </div>
@@ -72,7 +72,7 @@
 
     <td width="30%" align="center">
       <img 
-        src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.jpg" 
+        src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.png" 
         height="180"
         style="border-radius: 6px;"
       />
@@ -118,14 +118,14 @@
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Shan-isChad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+  src="https://github-readme-stats.vercel.app/api?username=SHAN-ischad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
   width="85%" 
 />
 
 <br/><br/>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-isChad&layout=compact&theme=tokyonight&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAN-ischad&layout=compact&theme=tokyonight&hide_border=true" 
   width="85%" 
 />
 
