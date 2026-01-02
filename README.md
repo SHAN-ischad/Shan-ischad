@@ -45,18 +45,26 @@
 
 ### 🧠 Tecnologias
 
-- **JavaScript**
-- **TypeScript**
-- **Java**
-- **React**
-- **React Native**
-- **Node.js**
-- **Spring**
-- **MongoDB**
-- **Firebase**
-- **Git & GitHub**
-- **Tailwind CSS**
-- **Figma**
+### 🧠 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=figma" />
+
+</div>
+
 
 ---
 
