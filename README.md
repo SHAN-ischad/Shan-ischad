@@ -1,4 +1,4 @@
-<br><br><br>
+<br><br>
 <div align="center">
   <samp>
     <h1>Bem-vindo ao meu perfil</h1><br>
@@ -13,7 +13,7 @@
 
 </div>
 
-<br><br><br>
+<br><br>
 
 <div align="center">
   <img 
