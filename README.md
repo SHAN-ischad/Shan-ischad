@@ -6,6 +6,11 @@
   />
 </div>
 
+  <samp>
+      <br>
+      Bem vindo ao meu perfil</b>
+  </samp>
+
 ---
 
 ## 🧑‍💻 Sobre mim — Júnior / Estágio
