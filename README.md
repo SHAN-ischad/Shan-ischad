@@ -7,12 +7,10 @@
 </div>
 
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/carInPurple.gif" 
-    width="90%" 
-    height="250px" 
-    style="border-radius: 6px;" 
-  />
+<img 
+  src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/carInPurple.gif" width="90%" height="200px"
+/>
+
 </div>
 
 <br><br><br>
