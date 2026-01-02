@@ -117,9 +117,11 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Shan-isChad&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Shan-isChad&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    alt="GitHub Streak"
   />
 </div>
+
 
 
 
