@@ -15,14 +15,35 @@
 
 </div>
 
-<div display="flex">
-  Sou desenvolvedor **Full Stack em início de carreira**, com foco em **desenvolvimento web e mobile**.  
-Tenho experiência prática com **JavaScript, TypeScript, Java, React e React Native**, desenvolvendo aplicações completas do backend ao frontend.
+<div 
+  style="
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  "
+>
+  <div style="flex: 1; min-width: 260px;">
+    Sou desenvolvedor <strong>Full Stack em início de carreira</strong>, com foco em 
+    <strong>desenvolvimento web e mobile</strong>.<br/>
+    Tenho experiência prática com <strong>JavaScript, TypeScript, Java, React e React Native</strong>,
+    desenvolvendo aplicações completas do backend ao frontend.<br/><br/>
 
-Busco oportunidades como **Estagiário ou Desenvolvedor Júnior**, onde eu possa aprender, evoluir tecnicamente e contribuir com o time.
+    Busco oportunidades como <strong>Estagiário ou Desenvolvedor Júnior</strong>, onde eu possa aprender,
+    evoluir tecnicamente e contribuir com o time.<br/><br/>
 
-Valorizo **código limpo, organização, boas práticas e trabalho em equipe**.
+    Valorizo <strong>código limpo, organização, boas práticas e trabalho em equipe</strong>.
+  </div>
+
+  <img 
+    src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.jpg" 
+    height="120"
+    style="border-radius: 6px;"
+  />
 </div>
+
 
 
 ---
@@ -38,10 +59,38 @@ Valorizo **código limpo, organização, boas práticas e trabalho em equipe**.
 
 </div>
 
+
+
+<div 
+  style="
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  "
+>
+  <div style="flex: 1; min-width: 260px;">
 I'm a **Junior Full Stack Developer** focused on **web and mobile development**.  
 I have hands-on experience with **JavaScript, TypeScript, Java, React and React Native**, building complete applications from backend to frontend.
 
 I'm currently looking for opportunities as a **Junior Developer or Intern**, where I can grow professionally and learn through real-world challenges.
+
+    Busco oportunidades como <strong>Estagiário ou Desenvolvedor Júnior</strong>, onde eu possa aprender,
+    evoluir tecnicamente e contribuir com o time.<br/><br/>
+
+    Valorizo <strong>código limpo, organização, boas práticas e trabalho em equipe</strong>.
+  </div>
+
+  <img 
+    src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.jpg" 
+    height="120"
+    style="border-radius: 6px;"
+  />
+</div>
+
+
 
 ---
 
@@ -80,13 +129,20 @@ I'm currently looking for opportunities as a **Junior Developer or Intern**, whe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shan-isChad&show_icons=true&theme=tokyonight&hide_border=true" width="90%" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Shan-isChad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+  width="85%" 
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-isChad&layout=compact&theme=tokyonight&hide_border=true" width="90%" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shan-isChad&layout=compact&theme=tokyonight&hide_border=true" 
+  width="85%" 
+/>
 
 </div>
+
 
 ---
 
@@ -137,6 +193,6 @@ Repositório focado em **aprendizado contínuo** e testes.
 
 <div align="center">
 
-✨ *Transforming ideas into code, and code into real solutions.* ✨
+✨ *always improving.* ✨
 
 </div>
