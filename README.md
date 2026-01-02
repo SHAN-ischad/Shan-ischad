@@ -115,7 +115,15 @@
 
 ## 📊 GitHub Status
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHAN-ischad)](https://git.io/streak-stats)
+<div align="center">
+
+<img 
+  src="https://streak-stats.demolab.com?user=SHAN-ischad&theme=tokyonight&hide_border=true" 
+  width="85%" 
+/>
+
+</div>
+
 ---
 
 ## ⭐ Meus Projetos
