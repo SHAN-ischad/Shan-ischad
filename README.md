@@ -7,8 +7,8 @@
 </div>
 
 <div align="center">
-<img 
-  src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/purplesky.gif" width="90%" height="280px" 
+<video
+  src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/purplesky.gif" width="90%" height="280px" autoplay 
 />
 
 </div>
