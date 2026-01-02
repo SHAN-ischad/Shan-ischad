@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<video
+<img
   src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/purplesky.gif" width="90%" height="280px" autoplay 
 />
 
