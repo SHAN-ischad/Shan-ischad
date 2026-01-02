@@ -115,21 +115,7 @@
 
 ## 📊 GitHub Status
 
-<div align="center">
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=SHAN-isChad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-  width="85%" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAN-isChad&layout=compact&theme=tokyonight&hide_border=true" 
-  width="85%" 
-/>
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHAN-ischad&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
