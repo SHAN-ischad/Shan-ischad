@@ -32,12 +32,20 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
+<div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8b5cf6&width=900&size=22&center=true&lines=Programador+Full+Stack;Focado+em+serviços+web"
+    src="https://readme-typing-svg.demolab.com?
+font=Iosevka
+&size=22
+&color=9F6CFF
+&center=true
+&vCenter=true
+&width=900
+&lines=Bem+vindo+ao+meu+perfil+git,+Estudante+Full+Stack+em+constante+melhora"
     alt="Typing SVG"
   />
 </div>
+
 
 <br><br>
 
