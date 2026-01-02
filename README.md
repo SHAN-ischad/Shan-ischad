@@ -118,7 +118,6 @@
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=Shan-isChad&theme=tokyonight&hide_border=true"
-    width="85%"
   />
 </div>
 
