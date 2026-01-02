@@ -115,7 +115,7 @@
 
 ## 📊 GitHub Status
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHAN-ischad&hide_border=true&locale=pt_BR&type=png)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=SHAN-ischad&hide_border=true&locale=pt_BR&type=png)(https://git.io/streak-stats)
 
 ---
 
