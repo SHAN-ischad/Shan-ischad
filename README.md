@@ -1,8 +1,8 @@
 <br><br><br>
 <div align="center">
   <samp>
-    <b>Bem-vindo ao meu perfil</b><br>
-    <span>Desenvolvedor Full Stack</span>
+    <h1>Bem-vindo ao meu perfil</h1><br>
+    <h3>Desenvolvedor Full Stack</h3>
   </samp>
 </div>
 
