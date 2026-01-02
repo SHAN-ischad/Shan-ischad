@@ -15,31 +15,34 @@
 
 </div>
 
-<div 
-  style="
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    gap: 16px;
-    flex-wrap: wrap;
-  "
->
-  <div style="flex: 1; min-width: 260px;">
-    Sou desenvolvedor <strong>Full Stack em início de carreira</strong>, com foco em 
-    <strong>desenvolvimento web e mobile</strong>.<br/>
-    Tenho experiência prática com <strong>JavaScript, TypeScript, Java, React e React Native</strong>,
-    desenvolvendo aplicações completas do backend ao frontend.<br/><br/>
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      Sou desenvolvedor <strong>Full Stack em início de carreira</strong>, com foco em 
+      <strong>desenvolvimento web e mobile</strong>.<br/><br/>
 
-    Busco oportunidades como <strong>Estagiário ou Desenvolvedor Júnior</strong>, onde eu possa aprender,
-    evoluir tecnicamente e contribuir com o time.<br/><br/>
+      Tenho experiência prática com <strong>JavaScript, TypeScript, Java, React e React Native</strong>,
+      desenvolvendo aplicações completas do backend ao frontend.<br/><br/>
 
-    Valorizo <strong>código limpo, organização, boas práticas e trabalho em equipe</strong>.
-  </div>
+      Busco oportunidades como <strong>Estagiário ou Desenvolvedor Júnior</strong>, onde eu possa aprender,
+      evoluir tecnicamente e contribuir com o time.<br/><br/>
+
+      Valorizo <strong>código limpo, organização, boas práticas e trabalho em equipe</strong>.
+    </td>
+    <td width="30%" align="center">
+      <img 
+        src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.png" 
+        height="220"
+        style="border-radius: 6px;"
+      />
+    </td>
+  </tr>
+</table>
+
 
   <img 
-    src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.jpg" 
-    height="120"
+    src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.png" 
+    height="250"
     style="border-radius: 6px;"
   />
 </div>
@@ -72,23 +75,28 @@
   "
 >
   <div style="flex: 1; min-width: 260px;">
-I'm a **Junior Full Stack Developer** focused on **web and mobile development**.  
-I have hands-on experience with **JavaScript, TypeScript, Java, React and React Native**, building complete applications from backend to frontend.
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      I'm a <strong>Junior Full Stack Developer</strong> focused on 
+      <strong>web and mobile development</strong>.<br/><br/>
 
-I'm currently looking for opportunities as a **Junior Developer or Intern**, where I can grow professionally and learn through real-world challenges.
+      I have hands-on experience with <strong>JavaScript, TypeScript, Java, React and React Native</strong>,
+      building complete applications from backend to frontend.<br/><br/>
 
-    Busco oportunidades como <strong>Estagiário ou Desenvolvedor Júnior</strong>, onde eu possa aprender,
-    evoluir tecnicamente e contribuir com o time.<br/><br/>
+      I'm currently looking for opportunities as a <strong>Junior Developer or Intern</strong>,
+      where I can grow professionally and learn through real-world challenges.
+    </td>
+    <td width="30%" align="center">
+      <img 
+        src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.jpg" 
+        height="180"
+        style="border-radius: 6px;"
+      />
+    </td>
+  </tr>
+</table>
 
-    Valorizo <strong>código limpo, organização, boas práticas e trabalho em equipe</strong>.
-  </div>
-
-  <img 
-    src="https://raw.githubusercontent.com/SHAN-ischad/assets/main/hollow1.jpg" 
-    height="120"
-    style="border-radius: 6px;"
-  />
-</div>
 
 
 
