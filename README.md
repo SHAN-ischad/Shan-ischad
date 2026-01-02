@@ -112,11 +112,9 @@
 </div>
 
 ---
-
 ## 📊 GitHub Status
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=Shan-isChad&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Shan-isChad&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ---
 
 ## ⭐ Meus Projetos
