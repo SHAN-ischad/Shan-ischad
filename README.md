@@ -99,6 +99,7 @@ Plataforma de automação de serviços com IA
 Repositório de estudos e experimentos  
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=js" />
 <img src="https://skillicons.dev/icons?i=mongodb" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
 <img src="https://skillicons.dev/icons?i=html" />
