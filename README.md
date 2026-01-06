@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=400&size=22&pause=100&typingSpeed=220&color=9F6CFF&center=true&vCenter=true&width=900&lines=Bem+vindo+ao+meu+perfil+git;Estudante+Full+Stack;Sempre+evoluindo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=400&size=22&pause=100&typingSpeed=220&color=9F6CFF&center=true&vCenter=true&width=900&lines=Estudante+Full+Stack;🥀" />
 </div>
 
 
